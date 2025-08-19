@@ -22,7 +22,7 @@ Research Interests
   <li> High-dimensional statistics </li>
   <li> Statistical learning</li>
 </ul>
-I am particularly interested in random matrix theory and graph learning/inference. Recently, I start my interest in large language models.
+I am particularly interested in random matrix models and graph learning/inference.
 
 
 Publications

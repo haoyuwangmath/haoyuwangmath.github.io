@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Haoyu Wang"
-  avatar           : "WebPhoto.png"
+  # avatar           : "WebPhoto.png"
+  avatar           : "Haoyu_Photo.jpg"
   bio              : "Math PhD Student at Yale"
   location         : "New Haven, CT"
   employer         :

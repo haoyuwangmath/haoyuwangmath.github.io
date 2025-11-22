@@ -14,6 +14,8 @@ I am a fifth-year PhD student in mathematics at Yale University, fortunately adv
 
 Email: haoyu [dot] wang [at] yale [dot] edu
 
+My dissertation "Random Matrices and Statistical Inference with Correlated Structures" can be found <a href="http://haoyuwangmath.github.io/files/Dissertation_Final"> here </a>
+
 
 Research Interests
 =====
